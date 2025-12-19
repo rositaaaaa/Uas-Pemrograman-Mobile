@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656243499438",
+    "project_id": "nusacerita",
+    "storage_bucket": "nusacerita.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656243499438:android:7f8f2c59a6bb5c8a7a683f",
+        "android_client_info": {
+          "package_name": "com.example.nusacerita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4N5kfakcaqq96xSGJ51XF3fov7ltO2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

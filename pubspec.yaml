@@ -1,0 +1,58 @@
+name: wisata_indonesia
+description: Aplikasi wisata Indonesia
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.17.3
+  
+  # UI & Utilities
+  cached_network_image: ^3.3.0
+  provider: ^6.1.1
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2  # <-- TAMBAH UNTUK DARK MODE
+  
+  # Icons
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # ========== ASSETS ==========
+  assets:
+    - assets/images/logo.jpg
+    # Tambahkan asset lain jika diperlukan:
+    # - assets/images/
+    # - assets/icons/
+    # - assets/fonts/
+  
+  # Jika butuh custom fonts (uncomment jika ada):
+  # fonts:
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: assets/fonts/Poppins-Regular.ttf
+  #       - asset: assets/fonts/Poppins-Bold.ttf
+  #         weight: 700
+  #   - family: Inter
+  #     fonts:
+  #       - asset: assets/fonts/Inter-Regular.ttf
+  #       - asset: assets/fonts/Inter-Medium.ttf
+  #         weight: 500
+  #       - asset: assets/fonts/Inter-SemiBold.ttf
+  #         weight: 600
+  
+  # Generate icons (uncomment jika butuh):
+  # generate: true
