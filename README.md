@@ -116,18 +116,6 @@ Tahun: 2025
 Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
 Bebas digunakan dan dikembangkan lebih lanjut.
 
-yaml
-Copy code
-
----
-
-## Setelah itu, simpan & push:
-
-```bash
-git add README.md
-git commit -m "Add README for Wisata Indonesia app"
-git push
-
 # link apk
 
 https://github.com/rositaaaaa/Uas-Pemrograman-Mobile/releases/download/v1.0.0/app-release.apk
