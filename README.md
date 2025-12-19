@@ -128,5 +128,6 @@ git add README.md
 git commit -m "Add README for Wisata Indonesia app"
 git push
 
-link
+link apk
+
 https://github.com/rositaaaaa/Uas-Pemrograman-Mobile/releases/download/v1.0.0/app-release.apk
