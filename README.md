@@ -61,46 +61,6 @@ lib/
 ├── services/
 │   ├── auth_service.dart
 │   └── theme_service.dart
-⚙️ Cara Menjalankan Aplikasi
-Clone repository:
-
-bash
-Copy code
-git clone https://github.com/rositaaaaa/Uas-Pemrograman-Mobile.git
-Masuk ke folder project:
-
-bash
-Copy code
-cd Uas-Pemrograman-Mobile
-Install dependency:
-
-bash
-Copy code
-flutter pub get
-Jalankan aplikasi:
-
-bash
-Copy code
-flutter run
-🔑 Konfigurasi Firebase
-Pastikan file berikut sudah tersedia:
-
-lib/firebase_options.dart
-
-android/app/google-services.json
-
-ios/Runner/GoogleService-Info.plist
-
-Firebase digunakan untuk:
-
-Autentikasi pengguna (login & register)
-
-🧪 Akun Uji Coba (Opsional)
-Email: demo@gmail.com
-Password: 123456
-
-📱 Screenshot
-Tambahkan screenshot aplikasi di sini untuk tampilan UI.
 
 👩‍💻 Developer
 Nama: Rosita
