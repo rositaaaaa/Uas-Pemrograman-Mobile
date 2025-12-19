@@ -1,51 +1,50 @@
 # 🌏 Wisata Indonesia
 
-**Wisata Indonesia** adalah aplikasi mobile berbasis Flutter yang membantu pengguna menjelajahi berbagai destinasi wisata menarik di Indonesia.  
+Wisata Indonesia adalah aplikasi mobile berbasis Flutter yang membantu pengguna menjelajahi berbagai destinasi wisata menarik di Indonesia.  
 Aplikasi ini menyediakan fitur login, pencarian destinasi, favorit (bookmark), todo perjalanan, dan profil pengguna.
 
-Project ini dibuat sebagai bagian dari tugas **UAS Pemrograman Mobile**.
+Project ini dibuat sebagai bagian dari tugas UAS Pemrograman Mobile.
 
 ---
 
 ## ✨ Fitur Aplikasi
 
-- 🔐 **Autentikasi Pengguna**
+- 🔐 Autentikasi Pengguna
   - Login & Register menggunakan email dan password (Firebase Auth)
 
-- 🏝️ **Destinasi Wisata**
+- 🏝️ Destinasi Wisata
   - Menampilkan daftar destinasi wisata Indonesia
   - Melihat detail destinasi
 
-- 🔍 **Pencarian**
+- 🔍 Pencarian
   - Mencari destinasi berdasarkan nama
 
-- ❤️ **Bookmark / Favorit**
+- ❤️ Bookmark / Favorit
   - Menandai destinasi favorit
   - Melihat daftar favorit
 
-- 📝 **Todo Perjalanan**
+- 📝 Todo Perjalanan
   - Menambah dan melihat rencana perjalanan
 
-- 👤 **Profil Pengguna**
+- 👤 Profil Pengguna
   - Melihat informasi akun
 
-- 🎨 **Tema Aplikasi**
+- 🎨 Tema Aplikasi
   - Pengaturan tema menggunakan service
 
 ---
 
 ## 🚀 Teknologi yang Digunakan
 
-- **Flutter** (Dart)
-- **Firebase Authentication**
-- **Firebase Core**
-- **Provider** (State Management)
+- Flutter (Dart)
+- Firebase Authentication
+- Firebase Core
+- Provider (State Management)
 
 ---
 
 ## 📂 Struktur Project
 
-```txt
 lib/
 ├── main.dart
 ├── firebase_options.dart
@@ -116,6 +115,6 @@ Tahun: 2025
 Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
 Bebas digunakan dan dikembangkan lebih lanjut.
 
-# link apk
+## link apk
 
 https://github.com/rositaaaaa/Uas-Pemrograman-Mobile/releases/download/v1.0.0/app-release.apk
